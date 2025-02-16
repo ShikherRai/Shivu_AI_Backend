@@ -1,0 +1,4 @@
+flask
+flask-cors
+pyttsx3
+gunicorn
